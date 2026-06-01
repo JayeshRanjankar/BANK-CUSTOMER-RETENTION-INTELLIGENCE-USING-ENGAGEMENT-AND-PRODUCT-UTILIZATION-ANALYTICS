@@ -1,4 +1,9 @@
-streamlit~=1.56.0
-pandas~=2.3.3
-numpy~=2.2.6
-plotly~=6.7.0
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+joblib
